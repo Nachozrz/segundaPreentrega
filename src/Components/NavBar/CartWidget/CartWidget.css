@@ -1,0 +1,15 @@
+img{
+width: 50px;
+}
+h3{
+   font-size: 30px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+strong{
+    background-color: rgb(245, 101, 5);
+}
